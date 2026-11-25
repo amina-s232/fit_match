@@ -1,0 +1,11 @@
+{
+  "garment_type": "shirt",
+  "unit": "cm",
+  "measurement_basis": "garment",
+  "fit_type": "regular",
+  "sizes": [
+    { "label": "S", "measurements": { "chest": 100, "waist": 96 } },
+    { "label": "M", "measurements": { "chest": 106, "waist": 102 } },
+    { "label": "L", "measurements": { "chest": 112, "waist": 108 } }
+  ]
+}
