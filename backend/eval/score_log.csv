@@ -1,0 +1,9 @@
+time,backend,model,prompt_version,passed,total
+2026-11-25T12:57:42,gemini,gemini-4-hydrogen,v1,0,10
+2026-11-25T12:59:40,gemini,gemini-2.5-flash,v1,0,10
+2026-11-25T13:04:59,gemini,gemini-3.5-flash-lite,v1,0,10
+2026-11-25T13:11:43,gemini,gemini-3.5-flash-lite,v1,6,10
+2026-11-25T13:12:31,gemini,gemini-3.5-flash-lite,v1,6,10
+2026-11-25T13:37:52,gemini,gemini-3.5-flash-lite,v2,5,10
+2026-11-25T13:45:13,gemini,gemini-3.5-flash-lite,v3,8,10
+2026-11-25T13:48:54,gemini,gemini-3.5-flash-lite,v3,10,10

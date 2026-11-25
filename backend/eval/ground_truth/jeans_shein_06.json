@@ -1,0 +1,14 @@
+{
+  "garment_type": "jeans",
+  "unit": "cm",
+  "measurement_basis": "body",
+  "fit_type": "unknown",
+  "sizes": [
+    { "label": "26", "measurements": { "waist": 64.135, "hips": 84.455 } },
+    { "label": "28", "measurements": { "waist": 69.215, "hips": 89.535 } },
+    { "label": "30", "measurements": { "waist": 74.295, "hips": 94.615 } },
+    { "label": "32", "measurements": { "waist": 79.375, "hips": 99.695 } },
+    { "label": "34", "measurements": { "waist": 84.455, "hips": 104.775 } },
+    { "label": "36", "measurements": { "waist": 89.535, "hips": 109.855 } }
+  ]
+}

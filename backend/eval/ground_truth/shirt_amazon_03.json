@@ -1,0 +1,15 @@
+{
+  "garment_type": "shirt",
+  "unit": "in",
+  "measurement_basis": "garment",
+  "fit_type": "regular",
+  "sizes": [
+    { "label": "38", "measurements": { "chest": 40.2, "shoulder": 16.7, "length": 29.5 } },
+    { "label": "39", "measurements": { "chest": 41.7, "shoulder": 17.3, "length": 29.9 } },
+    { "label": "40", "measurements": { "chest": 43.3, "shoulder": 18.3, "length": 30.3 } },
+    { "label": "42", "measurements": { "chest": 45.9, "shoulder": 19.3, "length": 30.3 } },
+    { "label": "44", "measurements": { "chest": 48.4, "shoulder": 20.3, "length": 30.7 } },
+    { "label": "46", "measurements": { "chest": 51, "shoulder": 21.3, "length": 30.7 } },
+    { "label": "48", "measurements": { "chest": 51, "shoulder": 22.1, "length": 30.3 } }
+  ]
+}

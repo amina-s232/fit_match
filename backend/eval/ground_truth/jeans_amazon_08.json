@@ -1,0 +1,13 @@
+{
+  "garment_type": "jeans",
+  "unit": "in",
+  "measurement_basis": "unknown",
+  "fit_type": "unknown",
+  "sizes": [
+    { "label": "30", "measurements": { "waist": 30, "inseam": 30, "outseam": 41 } },
+    { "label": "32", "measurements": { "waist": 32, "inseam": 30, "outseam": 41 } },
+    { "label": "34", "measurements": { "waist": 34, "inseam": 30, "outseam": 41 } },
+    { "label": "36", "measurements": { "waist": 36, "inseam": 30, "outseam": 41 } },
+    { "label": "38", "measurements": { "waist": 38, "inseam": 30, "outseam": 41 } }
+  ]
+}

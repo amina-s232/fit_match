@@ -1,0 +1,19 @@
+{
+  "garment_type": "dress",
+  "unit": "in",
+  "measurement_basis": "body",
+  "fit_type": "unknown",
+  "sizes": [
+    { "label": "XS", "measurements": { "bust": 32, "waist": 25, "hip": 35 } },
+    { "label": "S", "measurements": { "bust": 34, "waist": 27, "hip": 37 } },
+    { "label": "M", "measurements": { "bust": 36, "waist": 29, "hip": 39 } },
+    { "label": "L", "measurements": { "bust": 38, "waist": 31, "hip": 41 } },
+    { "label": "XL", "measurements": { "bust": 40, "waist": 33, "hip": 43 } },
+    { "label": "2XL", "measurements": { "bust": 42, "waist": 35, "hip": 45 } },
+    { "label": "3XL", "measurements": { "bust": 44, "waist": 37, "hip": 47 } },
+    { "label": "4XL", "measurements": { "bust": 46, "waist": 39, "hip": 49 } },
+    { "label": "5XL", "measurements": { "bust": 48, "waist": 41, "hip": 51 } },
+    { "label": "6XL", "measurements": { "bust": 50, "waist": 43, "hip": 53 } },
+    { "label": "7XL", "measurements": { "bust": 52, "waist": 45, "hip": 55 } }
+  ]
+}

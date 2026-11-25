@@ -1,0 +1,13 @@
+{
+  "garment_type": "shirt",
+  "unit": "in",
+  "measurement_basis": "unknown",
+  "fit_type": "unknown",
+  "sizes": [
+    { "label": "S", "measurements": { "chest_bust": 38, "shoulder": 17, "sleeve_length": 28, "chest": 25 } },
+    { "label": "M", "measurements": { "chest_bust": 40, "shoulder": 18, "sleeve_length": 28.5, "chest": 25 } },
+    { "label": "L", "measurements": { "chest_bust": 42, "shoulder": 19, "sleeve_length": 29, "chest": 25.5 } },
+    { "label": "XL", "measurements": { "chest_bust": 44, "shoulder": 20, "sleeve_length": 29.5, "chest": 26 } },
+    { "label": "XXL", "measurements": { "chest_bust": 46, "shoulder": 21, "sleeve_length": 30, "chest": 26 } }
+  ]
+}

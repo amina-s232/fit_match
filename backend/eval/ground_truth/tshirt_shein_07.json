@@ -1,0 +1,14 @@
+{
+  "garment_type": "tshirt",
+  "unit": "cm",
+  "measurement_basis": "body",
+  "fit_type": "unknown",
+  "sizes": [
+    { "label": "XS", "measurements": { "chest": 89.535 } },
+    { "label": "S", "measurements": { "chest": 94.615 } },
+    { "label": "M", "measurements": { "chest": 99.695 } },
+    { "label": "L", "measurements": { "chest": 104.775 } },
+    { "label": "XL", "measurements": { "chest": 109.855 } },
+    { "label": "XXL", "measurements": { "chest": 114.935 } }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "garment_type": "kurta",
+  "unit": "in",
+  "measurement_basis": "body",
+  "fit_type": "unknown",
+  "sizes": [
+    { "label": "XXS", "measurements": { "chest": 32, "shoulder": 14 } },
+    { "label": "XS", "measurements": { "chest": 34, "shoulder": 14.5 } },
+    { "label": "S", "measurements": { "chest": 36, "shoulder": 15 } },
+    { "label": "M", "measurements": { "chest": 38, "shoulder": 15.5 } },
+    { "label": "L", "measurements": { "chest": 40, "shoulder": 16 } },
+    { "label": "XL", "measurements": { "chest": 42, "shoulder": 16.5 } },
+    { "label": "XXL", "measurements": { "chest": 44, "shoulder": 17 } },
+    { "label": "3XL", "measurements": { "chest": 46, "shoulder": 17.5 } },
+    { "label": "4XL", "measurements": { "chest": 49, "shoulder": 18.3 } },
+    { "label": "5XL", "measurements": { "chest": 52, "shoulder": 19 } },
+    { "label": "6XL", "measurements": { "chest": 55, "shoulder": 19.8 } }
+  ]
+}

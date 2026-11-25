@@ -1,0 +1,14 @@
+{
+  "garment_type": "kurta",
+  "unit": "cm",
+  "measurement_basis": "body",
+  "fit_type": "unknown",
+  "sizes": [
+    { "label": "XS", "measurements": { "bust": 79.375, "waist": 64.135 } },
+    { "label": "S", "measurements": { "bust": 84.455, "waist": 69.215 } },
+    { "label": "M", "measurements": { "bust": 89.535, "waist": 74.295 } },
+    { "label": "L", "measurements": { "bust": 94.615, "waist": 79.375 } },
+    { "label": "XL", "measurements": { "bust": 99.695, "waist": 84.455 } },
+    { "label": "XXL", "measurements": { "bust": 104.775, "waist": 89.535 } }
+  ]
+}
